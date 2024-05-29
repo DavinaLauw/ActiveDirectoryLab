@@ -18,23 +18,23 @@ Welcome to the GitHub repository for setting up a basic home lab running Active 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Creating an Active Directory domain: <br/>
 <img src="https://i.imgur.com/xDLq6X4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Adding names & creating user accounts and groups:  <br/>
 <img src="https://i.imgur.com/njB8xKJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Scripts for adding and managing users:  <br/>
 <img src="https://i.imgur.com/RXUQmto.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Configuring DHCP:  <br/>
 <img src="https://i.imgur.com/YSor8Hz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Login with corporate credential:  <br/>
 <img src="https://i.imgur.com/0EuZ36M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
