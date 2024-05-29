@@ -1,7 +1,8 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-Welcome to the GitHub repository for setting up a basic home lab running Active Directory using Oracle VirtualBox! This repository provides a comprehensive guide to create a virtualized environment for practicing and learning about Active Directory (AD) and managing users with PowerShell.
+Welcome to the GitHub repository for setting up a basic home lab running Active Directory using Oracle VirtualBox! This repository provides a comprehensive guide to create a virtualized environment for practicing and learning about Active Directory (AD) and managing users with PowerShell. <br />
+Credit to : Josh Madakor for his step by step tutorial
 <br />
 
 
