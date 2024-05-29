@@ -18,6 +18,10 @@ Welcome to the GitHub repository for setting up a basic home lab running Active 
 <h2>Program walk-through:</h2>
 
 <p align="center">
+Concept: <br/>
+<img src="https://i.imgur.com/7qAqcnX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Creating an Active Directory domain: <br/>
 <img src="https://i.imgur.com/xDLq6X4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
